@@ -1,0 +1,78 @@
+#menu{
+    display: flex;
+    align-items: center;
+    padding: 10px 84px;
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 15px;
+    background-color: #f2f5f8;
+    
+}
+#menu i{
+    font-size: 12px;
+}
+.menu-link{
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 15px;
+}
+.content__information{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.content__information-title{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.content__information-descripton{
+    font-size: 15px;
+    font-style: italic;
+}
+.content__tour{
+    border-bottom: 4px solid var(--color-primary);
+    padding-bottom: 45px;
+}
+.content__tour-body{
+    background-color: white;
+}
+.tour__body-name{
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+}
+.content__tour-footer{
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tour__footer-inf{
+    color: black;
+    font-size: 14px;
+}
+.content-view{
+    border: none;
+    background-color: #d2238e;
+    color: white;
+    padding: 10px 30px;
+    font-size: 17px;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    margin-top: 20px;
+}
+.content-view:hover{
+    background-color: #424040;
+}
+.content__tour-list{
+    border: none;
+}
+.content__tour-img{
+    width: 365px;
+    height: 245px;
+    border-radius: 45px;
+}

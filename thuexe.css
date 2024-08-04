@@ -1,0 +1,69 @@
+.content__carOnline{
+    width: 1089px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+    padding: 20px 20px;
+}
+.content__carOnline-title{
+
+}
+.content__carOnline-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.content__carOnline-item{
+    padding-left: 0;
+}
+.content__carOnline-list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+.content__carOnline-des{
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+    width: 100px;
+}
+.content__carOnline-input{
+    margin-left: 55px;
+    width: 350px;
+    padding: 10px 0;
+    border: 1px solid #d9d9d9;
+}
+.content__carOnline-btn{
+    background-color: #c33696;
+    color: white;
+    border: none;
+    padding: 10px 90px;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    margin-top: 20px;
+}
+.tour-link{
+   
+}
+.content__tour-img{
+    border-radius: 0;
+    
+}
+.tour__body-name{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--color-text);
+}
+.tour__body-contact{
+    color: white;
+    height: 40px;
+    text-align: center;
+    width: 100px;
+    /* padding: 10px 11px; */
+    background-color: var(--color-primary);
+    line-height: 40px;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    margin-bottom: 18px;
+}

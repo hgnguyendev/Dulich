@@ -1,0 +1,52 @@
+.content__tour-rule:nth-child(3){
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 30px;
+}
+.content__rule-title{
+   color: #0033cc;
+   margin-bottom: 15px;
+   font-size: 24px;
+}
+.content__rule-header{
+   margin-top: 15px;
+}
+.content__rule-list{
+    list-style: none;
+    margin-left: 21px;
+    padding: 14px 0;
+    font-size: 14px;
+}
+.visal__hot-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.content__tour-img{
+    border-radius: 0;
+}
+.Visa-hot{
+    padding-top: 40px;
+    
+}
+.tour__body-name {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--color-text);
+}
+.tour-link{
+    width: 366px;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+}
+.visa__hot-item{
+    display: flex;
+    max-width: 1176px;
+    overflow-x: auto;
+    margin-top: 15px;
+}
+.visa__contact{
+    font-size: 17px;
+    color: var(--color-primary);
+    font-weight: 600;
+    padding-top: 45px;
+    padding-left: 9px;
+}
